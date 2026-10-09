@@ -1,13 +1,14 @@
 <div align="center">
 
-# KiwiZHK
+<img src="https://kiwizhk-portfolio.icy-birch-2918.chatgpt.site/assets/phichai-original.jpg" width="170" alt="Phichai Soudom">
 
-### Indie Developer · Web Applications · Product-minded Engineering
+# Phichai Soudom · cgamegerg
 
-I build practical web experiences that turn messy information into useful decisions.
+**AI Agentic Coding · Network Engineering · Web3 · Web Development · SEO**
 
-[![GitHub](https://img.shields.io/badge/GitHub-cgamegerg-181717?logo=github)](https://github.com/cgamegerg)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Bounty%20Heat%20Board-6C5CE7)](https://github.com/cgamegerg/DWE)
+Based in Thailand 🇹🇭 · Open to freelance and remote projects
+
+[Portfolio](https://kiwizhk-portfolio.icy-birch-2918.chatgpt.site) · [GitHub](https://github.com/cgamegerg) · [Instagram @cgamegg](https://instagram.com/cgamegg)
 
 </div>
 
@@ -15,42 +16,45 @@ I build practical web experiences that turn messy information into useful decisi
 
 ## About
 
-I’m **KiwiZHK** (GitHub: **@cgamegerg**), an independent developer interested in useful, polished web products. My public work includes a bilingual bounty discovery tool built with plain HTML, CSS and JavaScript.
+I’m Phichai Soudom, also known online as **cgamegerg**. I work across AI agentic coding and network engineering, and take on website, SEO and Web3 projects. I like to start with a clear brief, build in small steps, and hand over work that is practical to use.
 
-I’m open to freelance conversations about **web interfaces, small product prototypes, and data-driven browser tools**. The project below is the clearest public example of my work today.
-
-## Featured project
-
-### Bounty Heat Board — Superteam Earn companion
-
-A Thai/English, offline-first board for comparing bounty opportunities. It ranks open listings by a modeled expected-value-per-hour estimate and adds competition indicators, filters, a calculator, and a practical playbook.
-
-- **Built with:** HTML, CSS, vanilla JavaScript
-- **Highlights:** bilingual interface, responsive filtering, shareable URL filters, theme controls, EV calculator
-- **Live demo:** [fuzzy-guacamole.vercel.app](https://fuzzy-guacamole.vercel.app)
-- **Source and detailed methodology:** [cgamegerg/DWE](https://github.com/cgamegerg/DWE)
-
-> The bundled listings are a hand-built snapshot dated 2026-09-19, not a live feed. EV and competition figures are estimates based on stated assumptions; always verify the original listing.
+💛 Single · Open to good project conversations
 
 ## What I can help with
 
-- Responsive frontend development
-- Interactive dashboards and browser-based tools
-- MVP and prototype implementation
-- Turning a workflow or dataset into a clear user experience
+- **AI agents for teams** — workflow discovery, agent prototypes and tool integrations
+- **Web3 products** — product websites, user flows and blockchain experiences
+- **Web development** — responsive websites, web apps and product interfaces
+- **SEO** — technical foundations and on-page structure
+- **Network engineering** — network planning, troubleshooting and documentation
+- **Cybersecurity** — security reviews and testing for systems with explicit authorization
+
+## Selected work
+
+- [ZCC Express](https://zcc-express.com/) — shipping and transport platform
+- [ApeSmartChain / apeBTC Fund](https://apesmartchain.xyz/) — Web3 project; related source repository: [FOMO Family](https://github.com/cgamegerg/fomo-family)
+- **Ninenoii** — Thai retail POS experience (owner-supplied product screenshot)
+- [Khao Noi Arany Recycle](https://github.com/cgamegerg/khanoi.recycle) — recycling business website and campaign
+
+## Featured public repository
+
+### [Bounty Heat Board — Superteam Earn companion](https://github.com/cgamegerg/DWE)
+
+A Thai/English, offline-first board for comparing bounty opportunities. It ranks open listings using a modeled expected-value-per-hour estimate and includes competition indicators, filters, a calculator, and a practical playbook.
+
+- **Built with:** HTML, CSS, vanilla JavaScript
+- **Live demo:** [fuzzy-guacamole.vercel.app](https://fuzzy-guacamole.vercel.app)
+
+> The bundled listings are a hand-built snapshot dated 2026-09-19, not a live feed. EV and competition figures are estimates based on stated assumptions; verify the original listing.
 
 ## Tech
 
-`HTML` · `CSS` · `JavaScript`
-
-## Work with me
-
-Have a project in mind? Send a message through [GitHub](https://github.com/cgamegerg) with a short brief, target users, timeline, and budget range. I’ll reply with questions or a proposed next step.
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `Next.js` · `Vue` · `NestJS` · `React` · `Node.js` · `Bitcoin / Web3`
 
 ---
 
 <div align="center">
 
-*Building small tools that make the next decision clearer.*
+*Build useful things, one quest at a time.* 🎮
 
 </div>
