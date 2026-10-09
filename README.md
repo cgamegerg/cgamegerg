@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://cgamegerg.icy-birch-2918.chatgpt.site/assets/phichai-original.jpg" width="170" alt="Phichai Soudom">
 
 # Phichai Soudom · cgamegerg
 
@@ -37,15 +36,6 @@ I’m Phichai Soudom, also known online as **cgamegerg**. I work across AI agent
 - [Khao Noi Arany Recycle](https://github.com/cgamegerg/khanoi.recycle) — recycling business website and campaign
 
 ## Featured public repository
-
-### [Bounty Heat Board — Superteam Earn companion](https://github.com/cgamegerg/DWE)
-
-A Thai/English, offline-first board for comparing bounty opportunities. It ranks open listings using a modeled expected-value-per-hour estimate and includes competition indicators, filters, a calculator, and a practical playbook.
-
-- **Built with:** HTML, CSS, vanilla JavaScript
-- **Live demo:** [fuzzy-guacamole.vercel.app](https://fuzzy-guacamole.vercel.app)
-
-> The bundled listings are a hand-built snapshot dated 2026-09-19, not a live feed. EV and competition figures are estimates based on stated assumptions; verify the original listing.
 
 ## Tech
 
