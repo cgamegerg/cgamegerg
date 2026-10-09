@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://kiwizhk-portfolio.icy-birch-2918.chatgpt.site/assets/phichai-original.jpg" width="170" alt="Phichai Soudom">
+<img src="https://cgamegerg.icy-birch-2918.chatgpt.site/assets/phichai-original.jpg" width="170" alt="Phichai Soudom">
 
 # Phichai Soudom · cgamegerg
 
@@ -8,7 +8,7 @@
 
 Based in Thailand 🇹🇭 · Open to freelance and remote projects
 
-[Portfolio](https://kiwizhk-portfolio.icy-birch-2918.chatgpt.site) · [GitHub](https://github.com/cgamegerg) · [Instagram @cgamegg](https://instagram.com/cgamegg)
+[Portfolio](https://cgamegerg.icy-birch-2918.chatgpt.site) · [GitHub](https://github.com/cgamegerg) · [Instagram @cgamegg](https://instagram.com/cgamegg)
 
 </div>
 
