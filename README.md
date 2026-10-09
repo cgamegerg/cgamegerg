@@ -8,7 +8,7 @@
 
 Based in Thailand 🇹🇭 · Open to freelance and remote projects
 
-[Portfolio](https://cgamegerg.icy-birch-2918.chatgpt.site) · [GitHub](https://github.com/cgamegerg) · [Instagram @cgamegg](https://instagram.com/cgamegg)
+[Portfolio](https://da.gd/V0Pn) · [GitHub](https://github.com/cgamegerg) · [Instagram @cgamegg](https://instagram.com/cgamegg)
 
 </div>
 
